@@ -15,8 +15,8 @@ In the first part of QUASIM, we combine QC with the numerical models of the fram
 
 Results and basic application possibilities of QC are communicated to mechanical engineering companies via the excellent industrial networks of the project partners in workshops and symposia. The results are also introduced into the standardisation processes of German industry. With QUASIM, manufacturing companies are presented with how QC can be used practically to identify and implement competitive advantages in the medium and long term. QUASIM thus sets a milestone in innovation for the future success of German mechanical engineering.
 
-<img src="img/ecosystem.png" width="800"> 
+<img src="ecosystem.png" width="800"> 
 
 ## Consortium
-<img src="img/consortium.png" width="800"> 
+<img src="consortium.png" width="800"> 
 
