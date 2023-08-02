@@ -7,6 +7,8 @@
 # QUASIM
 Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing
 
+## Link to QUASIM demo video: 
+https://drive.google.com/drive/folders/1VaqYLI4LfNuGZkTe2oxyVLvDXwHq_cHg?usp=share_link
 
 ## Project Description
 The aim of the project "QC-Enhanced Service Ecosystem for Simulation in Manufacturing" (QUASIM) is to develop and test quantum computing (QC) algorithms and technologies for critical simulation issues in manufacturing, to embed them methodically in Industry 4.0 frameworks as "Quantum-as-a-Service" (QaaS) and to transfer practical knowledge on production-oriented simulation based on QC. With the help of different QC algorithms and technologies, QUASIM will investigate whether and how simulations of manufacturing processes can be optimised and accelerated. 
