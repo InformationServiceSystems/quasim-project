@@ -1,9 +1,3 @@
-**PI:** [Wolfgang Maaß](mailto:wolfgang.maass@dfki.de)
-
-**Project coordination:** [Hannah Stein](hannah.stein@dfki.de)
-
-**Researchers and Repo Lead:** [Ankit Agrawal](ankit.agrawal@dfki.de)
-
 # QUASIM
 Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing.
 
