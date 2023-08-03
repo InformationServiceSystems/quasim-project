@@ -1,8 +1,8 @@
-**PI:** Wolfgang Maaß
+**PI:** [Wolfgang Maaß](mailto:wolfgang.maass@dfki.de)
 
-**Project coordination:** Hannah Stein
+**Project coordination:** [Hannah Stein](hannah.stein@dfki.de)
 
-**Researchers and Repo Lead:** Ankit Agrawal
+**Researchers and Repo Lead:** [Ankit Agrawal](ankit.agrawal@dfki.de)
 
 # QUASIM
 Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing.
@@ -44,3 +44,7 @@ QUASIM is funded by the [German Federal Ministry of Economics and Climate Protec
 ## Duration
 
 01/01/2022 – 12/31/2024
+
+## Website
+
+https://www.quasim-project.de
