@@ -25,11 +25,11 @@
    - Insert the path to your dot instance into *Path to DOT*
    - Increase track selection radius to 8
 
-    ![Protégé settings](setup/protege_settings.png)
+    ![Protégé settings](ontology_setup/protege_settings.png)
 
 1. Lastly, if the OWLViz tab is not opened in Protégé by default, open in the menu bar *Window* -> *Tabs* -> *OWLViz*. There you can open every tab you need including OWLViz, Classes, and Object Properties.
 
-    ![tabs](setup/owlviz_tab.png)
+    ![tabs](ontology_setup/owlviz_tab.png)
 
 ### Plugins
 
@@ -46,7 +46,7 @@ The following plugins need to be installed via the plugins manager:
 
 Another visualization possibility is [WebVOWL](http://vowl.visualdataweb.org/webvowl.html). Since it is an online tool, you do not need any setup work to do and can directly upload the ontology file in WebVOWL within the tab *Ontology*.
 
-![webvowl](setup/webvowl_ont.png)
+![webvowl](ontology_setup/webvowl_ont.png)
 
 ### Filtering
 
@@ -54,4 +54,4 @@ To adjust the level of detail displayed in WebVOWL, the *Filter* option is given
 
 The whole ontology is shown when nothing is filtered and the degree of collapsing is set to 0.
 
-![filter](setup/webvowl_filter.png)
+![filter](ontology_setup/webvowl_filter.png)
