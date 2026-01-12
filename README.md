@@ -4,6 +4,8 @@ Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing.
 
 ## Protoype for QC-supported Simulations in Laser Cutting: 
 
+
+[![Protoype for QC-supported Simulations in Laser Cutting](QUASIM_demonstrator.jpeg)](https://drive.google.com/drive/folders/1VaqYLI4LfNuGZkTe2oxyVLvDXwHq_cHg?usp=share_link) 
 *Figure 1: The demonstrator supporting the presentation of the prototype (inlcuding both blisk, and metal plates with laser cuts)*
 
 
