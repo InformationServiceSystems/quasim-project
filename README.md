@@ -2,11 +2,7 @@
 Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing.
 
 
-## Link to Protoype for QC-supported Simulations in Laser Cutting: 
-
-https://drive.google.com/drive/folders/1VaqYLI4LfNuGZkTe2oxyVLvDXwHq_cHg?usp=share_link
-
-[![Protoype for QC-supported Simulations in Laser Cutting](QUASIM_demonstrator.jpeg)](https://drive.google.com/drive/folders/1VaqYLI4LfNuGZkTe2oxyVLvDXwHq_cHg?usp=share_link) 
+## Protoype for QC-supported Simulations in Laser Cutting: 
 
 *Figure 1: The demonstrator supporting the presentation of the prototype (inlcuding both blisk, and metal plates with laser cuts)*
 
@@ -24,8 +20,8 @@ https://drive.google.com/drive/folders/1VaqYLI4LfNuGZkTe2oxyVLvDXwHq_cHg?usp=sha
 3. [Fraunhofer Institute for Production Technology (IPT) (Aachen)](https://www.ipt.fraunhofer.de),
 4. [ModuleWorks GmbH (MW) (Aachen)](https://www.moduleworks.com/),
 5. [TRUMPF Machine Tools GmbH + Co. KG (Ditzingen)](https://www.trumpf.com/),
-6. [Ford-Werke GmbH (Cologne)](https://www.ford.de/) (Assosiate Partner),
-7. [MTU Aero Engines (Munich)](https://www.mtu.de/) (Assosiate Partner).
+6. [Ford-Werke GmbH (Cologne)](https://www.ford.de/) (Associate Partner),
+7. [MTU Aero Engines (Munich)](https://www.mtu.de/) (Associate Partner).
 
 
 <img src="consortium.png" width="800"> 
@@ -37,7 +33,7 @@ QUASIM is funded by the [German Federal Ministry of Economics and Climate Protec
 
 ## Duration
 
-01/01/2022 – 12/31/2024
+01/01/2022 – 02/28/2025
 
 ## Website
 
